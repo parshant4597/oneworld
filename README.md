@@ -1,7 +1,6 @@
 # Social-Media-Application
 ### OneWorld: Explore, Engage, Empower<br>
 Production Link: https://oneworld-blush.vercel.app<br>
-Demo Video Link: https://www.youtube.com/watch?v=CsTe5ioElMI
 
 ## Introduction
 This is a fully functional social media application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It includes features such as user authentication, posts, likes, comments, and real-time messaging using Socket.io.
