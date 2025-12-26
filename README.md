@@ -23,6 +23,7 @@ This is a fully functional social media application built using the MERN (MongoD
 ### Post Interactions
 - Create, edit, and delete posts
 - Like and comment on posts
+
 - Delete posts and comments
 
 ### Chatbot
